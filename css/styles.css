@@ -1,0 +1,78 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+canvas {
+  position: absolute;
+}
+
+body {
+  background-color: #169c8a;
+}
+
+h1, h3 {
+  color: white;
+}
+
+/* .SurveyOne{
+  display: inline-block;
+} */
+/* #ThisVideo{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+
+canvas {
+  margin-left: 180px;
+  margin-top: 320px;
+  position: absolute;
+}
+
+/* button{
+  float: left;
+} */
+
+.container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  background-color: gray;
+  border-radius: 30px;
+  padding-bottom: 20px;
+}
+
+.header {
+  border-bottom: #169c8a 5px solid;
+  margin-bottom: 50px;
+}
+
+.content {
+  background-color: teal;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 30px;
+  padding: 20px;
+
+}
+
+nav {
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
